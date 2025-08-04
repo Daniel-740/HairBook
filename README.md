@@ -16,13 +16,15 @@ Una aplicación móvil para reservar servicios de peluquería y barbería, desar
 1. **Clonar el repositorio**
    ```bash
    git clone https://github.com/Daniel-740/HairBook.git
-   cd hair-book
+   cd HairBook
    ```
 
 2. **Instalar dependencias**
    ```bash
    npm install
+   # o
    yarn install
+   # o
    pnpm install
    ```
 
@@ -146,7 +148,8 @@ src/
 ## 👨‍💻 Desarrollado por
 
 **Daniel Pineda**  
-[GitHub](https://github.com/tuusuario) | [Email](mailto:daniel740code@gmail.com)
+[GitHub](https://github.com/Daniel-740) | [Email](mailto:daniel740code@gmail.com)
 
 ---
 
+*Desarrollado como prueba técnica - HairBook v1.0.0*
