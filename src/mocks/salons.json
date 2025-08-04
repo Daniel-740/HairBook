@@ -1,0 +1,100 @@
+{
+    "salons": [
+      {
+        "id": 1,
+        "name": "Corte Fino",
+        "type": "corte de cabello",
+        "location": "Centro Histórico",
+        "description": "Clásicos y modernos cortes de cabello",
+        "creditCost": 5
+      },
+      {
+        "id": 2,
+        "name": "Barbería El Estilo",
+        "type": "barba",
+        "location": "La Floresta",
+        "description": "Cuidado de barba y estilo personalizado",
+        "creditCost": 4
+      },
+      {
+        "id": 3,
+        "name": "Belleza Total",
+        "type": "tratamientos capilares",
+        "location": "Quicentro Norte",
+        "description": "Tratamientos profesionales para tu cabello",
+        "creditCost": 7
+      },
+      {
+        "id": 4,
+        "name": "The Vintage Barber",
+        "type": "corte clásico",
+        "location": "Cumbayá",
+        "description": "Estilo retro con técnicas tradicionales",
+        "creditCost": 6
+      },
+      {
+        "id": 5,
+        "name": "Estilo Urbano",
+        "type": "corte moderno",
+        "location": "La Carolina",
+        "description": "Tendencias actuales en cortes urbanos",
+        "creditCost": 5
+      },
+      {
+        "id": 6,
+        "name": "Barbas & Más",
+        "type": "barba premium",
+        "location": "Valle de los Chillos",
+        "description": "Servicio especializado en barbas",
+        "creditCost": 8
+      },
+      {
+        "id": 7,
+        "name": "Salón D'Lujo",
+        "type": "servicios completos",
+        "location": "Gonzalez Suarez",
+        "description": "Experiencia de lujo en belleza masculina",
+        "creditCost": 10
+      },
+      {
+        "id": 8,
+        "name": "Rizo Perfecto",
+        "type": "cabello rizado",
+        "location": "Iñaquito",
+        "description": "Especialistas en cabello rizado y afro",
+        "creditCost": 6
+      },
+      {
+        "id": 9,
+        "name": "Tijeras de Oro",
+        "type": "corte ejecutivo",
+        "location": "Financial District",
+        "description": "Para profesionales que buscan elegancia",
+        "creditCost": 9
+      },
+      {
+        "id": 10,
+        "name": "El Rincón del Barbero",
+        "type": "servicio tradicional",
+        "location": "San Juan",
+        "description": "Auténtica experiencia de barbería tradicional",
+        "creditCost": 5
+      },
+      {
+        "id": 11,
+        "name": "Moda Hair",
+        "type": "coloración",
+        "location": "Plaza de las Américas",
+        "description": "Expertos en color y tendencias",
+        "creditCost": 7
+      },
+      {
+        "id": 12,
+        "name": "Corte & Estilo",
+        "type": "peinados especiales",
+        "location": "Bellavista",
+        "description": "Para ocasiones especiales y eventos",
+        "creditCost": 8
+      }
+    ]
+  }

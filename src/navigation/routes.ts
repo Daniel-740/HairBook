@@ -3,8 +3,9 @@ export enum Routes {
     DETAILS = 'Details',
     CREDIT = 'Credit',
     PROFILE = 'Profile',
+    RESERVATIONS = 'Reservations',
     SIGN_IN = 'SignIn',
-}   
+}
 
 export type RootParamsList = {
     [Routes.HOME]: undefined;
@@ -13,6 +14,7 @@ export type RootParamsList = {
     };
     [Routes.CREDIT]: undefined;
     [Routes.PROFILE]: undefined;
+    [Routes.RESERVATIONS]: undefined;
     [Routes.SIGN_IN]: undefined;
 }
 
