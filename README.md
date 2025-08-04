@@ -85,7 +85,7 @@ Una aplicación móvil para reservar servicios de peluquería y barbería, desar
 - [x] Reembolso al cancelar reservas
 
 ### 🎨 Interfaz de Usuario
-- [x] Diseño responsivo con Tailwind CSS
+- [x] Diseño con NativeWind
 - [x] Navegación con Stack Navigator
 - [x] Menú inferior personalizado
 - [x] Estados de carga y error
