@@ -5,8 +5,8 @@ Una aplicación móvil para reservar servicios de peluquería y barbería, desar
 ## 🚀 Instalación y Ejecución
 
 ### Prerrequisitos
-- Node.js (v16 o superior)
-- npm, yarn o pnpm
+- Node.js (v20 o superior)
+- pnpm
 - Expo CLI
 - Expo Go app en tu dispositivo móvil (opcional)
 - Android Studio / Xcode (para simuladores, opcional)
@@ -21,21 +21,17 @@ Una aplicación móvil para reservar servicios de peluquería y barbería, desar
 
 2. **Instalar dependencias**
    ```bash
-   npm install
-   # o
-   yarn install
-   # o
    pnpm install
    ```
 
 3. **Instalar Expo CLI (si no lo tienes)**
    ```bash
-   npm install -g @expo/cli
+   pnpm install -g @expo/cli
    ```
 
 4. **Ejecutar el proyecto**
    ```bash
-   npm start
+   pnpm start
    # o
    npx expo start
    ```
